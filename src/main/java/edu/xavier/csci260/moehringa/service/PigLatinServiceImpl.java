@@ -1,3 +1,4 @@
+/*
 package edu.xavier.csci260.moehringa.service;
 
 import edu.xavier.csci260.moehringa.DAL.WordTrackerDAO;
@@ -8,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * Created by aaronmoehring on 3/7/17.
  */
-
+/*
 @Component
 public class PigLatinServiceImpl implements PigLatinService{
 
@@ -30,3 +31,4 @@ public class PigLatinServiceImpl implements PigLatinService{
 
     }
 }
+*/
