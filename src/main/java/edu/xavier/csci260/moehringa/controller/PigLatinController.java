@@ -1,3 +1,4 @@
+/*
 package edu.xavier.csci260.moehringa.controller;
 
 import edu.xavier.csci260.moehringa.domain.WordBody;
@@ -15,6 +16,7 @@ import java.util.ArrayList;
 /**
  * Created by aaronmoehring on 3/7/17.
  */
+/*
 @Controller
 public class PigLatinController {
 
@@ -42,3 +44,4 @@ public class PigLatinController {
 
 
 }
+*/
