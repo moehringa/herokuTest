@@ -5,10 +5,9 @@ package edu.xavier.csci260.moehringa.service;
  */
 
 
-/*
+
 public interface PigLatinService {
 
     String translate(String word);
 
 }
-*/
