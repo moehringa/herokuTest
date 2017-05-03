@@ -60,5 +60,4 @@ dependencies {
 	compile group: 'javax.json', name: 'javax.json-api', version: '1.0-b01'
 }
 
-task stage(dependsOn: ['build', 'clean'])
-build.mustRunAfter clean
+task stage(dependsOn: ['build'])

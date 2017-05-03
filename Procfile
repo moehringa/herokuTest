@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/hw5-2-0.0.1-SNAPSHOT.jar
+web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/*.jar
