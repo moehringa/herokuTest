@@ -26,6 +26,13 @@ public class WordStatsController {
 
     }
 
+    @RequestMapping(value = "/")
+    public String returnSingleWordStats() {
+
+        return "index";
+
+    }
+
     @RequestMapping(value = "/words/stats/{word}", method = RequestMethod.GET)
     @ResponseBody
     public List<WordStats> returnSingleWordStats(@PathVariable("word")Optional<String> word) {
